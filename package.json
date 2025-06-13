@@ -1,0 +1,15 @@
+{
+  "name": "ra-sets",
+  "version": "1.0.0",
+  "description": "RetroAchievement sets",
+  "author": "fernandoepm1",
+  "scripts": {
+    "ps1-test": "cd src/ps1 && npx cruncheevos --help",
+    "diff": "npx cruncheevos diff"
+  },
+  "type": "module",
+  "dependencies": {
+    "@cruncheevos/core": "^0.0.8",
+    "@cruncheevos/cli": "^0.0.8"
+  }
+}
